@@ -7,7 +7,7 @@ I started learning coding recently and I’m documenting my journey here 🚀.
 
 ## 📂 Topics Covered
 - Factorial (Recursive)
-- Fibonacci Series
+- Fibonacci Series  
 - Power Function
 - Sum and Product of Digits
 - GCD (Greatest Common Divisor)
