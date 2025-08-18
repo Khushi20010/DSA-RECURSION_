@@ -5,7 +5,7 @@ I started learning coding recently and I’m documenting my journey here 🚀.
 
 ---
 
-## 📂 Topics Covered
+## 📂 Topics Covered    
 - Factorial (Recursive)
 - Fibonacci Series  
 - Power Function
